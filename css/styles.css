@@ -1,3 +1,9 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #DAD9BE; 
+  color: #211302;
+}
+
 .center {
   text-align: center;
 }
@@ -11,4 +17,13 @@
   font-size:11pt;
   width:75%;
   margin:auto;
+}
+
+.post {
+  font-family: snell roundhand, cursive;
+}
+
+.zombie {
+  font-family: stencil Std, fantasy;
+  color: #3f960a;
 }
